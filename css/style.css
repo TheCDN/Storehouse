@@ -2,7 +2,7 @@
 
 body {font-family:'Open Sans',Helvetica, sans-serif;font-size:14px;background: #fff;color:#000;line-height: 22px; }
 
-header {  background-color:RGBA(255, 255, 255, 1); width:100%; box-shadow: 1px 1px 5px #4444445e;  }
+header {  background-color:RGBA(255, 134, 134, 1); width:100%; box-shadow: 1px 1px 5px #4444445e;  }
 
 .ward { max-width: 1200px; margin:0 auto; padding:0 15px; }
 .title-box { text-align: center; margin-bottom: 30px;  }
@@ -42,7 +42,7 @@ a,input,button {outline: none!important;}
 
 .about-main { background-color: #f8f8f8; padding: 20px 0; }
 .about-main h2 { text-align: center; font-weight: bold; font-size: 24px; }
-.about-main h3 { border-bottom: 3px solid #ff7700; width: 100px; margin: 0 auto; margin-bottom: 20px; margin-top: 15px; }
+.about-main h3 { border-bottom: 3px solid #FF8686; width: 100px; margin: 0 auto; margin-bottom: 20px; margin-top: 15px; }
 .about-main .text-box { text-align: center; max-width: 750px; margin: 0 auto; margin-bottom: 30px; }
 .about-main .button {  margin-bottom: 35px; text-align:  center; }
 .about-main .button a { background-color: #000; padding: 8px 40px; color: #fff; }
@@ -64,7 +64,7 @@ a,input,button {outline: none!important;}
 
 .main-box .z-box .pdf { max-width: 350px; }
 .main-box .z-box .pdf  { background: #f8f8f8 url(../images/left-icon2.png) 30px center no-repeat; padding: 10px 70px; color: #000; font-size: 14px; font-weight: bold; }
-.main-box .z-box .pdf:hover {  background: #ff7700 url(../images/left-icon.png) 30px center no-repeat; color: #fff; font-size: 14px; font-weight: bold; transition: all 0.4s; }
+.main-box .z-box .pdf:hover {  background: #F69FC1 url(../images/left-icon.png) 30px center no-repeat; color: #fff; font-size: 14px; font-weight: bold; transition: all 0.4s; }
 
-footer { text-align: center; background-color: #ff7700; padding: 15px ; color: #fff; }
+footer { text-align: center; background-color: #000000; padding: 15px ; color: #fff; }
 footer a { color: #fff; font-weight: bold; }
