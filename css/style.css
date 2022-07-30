@@ -46,7 +46,7 @@ a,input,button {outline: none!important;}
 .about-main .text-box { text-align: center; max-width: 750px; margin: 0 auto; margin-bottom: 30px; }
 .about-main .button {  margin-bottom: 35px; text-align:  center; }
 .about-main .button a { background-color: #000; padding: 8px 40px; color: #fff; }
-.about-main .button a:hover { background-color: #ff7700;transition: all 0.4s; }
+.about-main .button a:hover { background-color: #2b85fb;transition: all 0.4s; }
 
 .main-box  { padding: 40px 0; }
 
@@ -58,7 +58,7 @@ a,input,button {outline: none!important;}
 .main-box .z-box { width: 33%; float: left; margin-bottom: 0;   }
 }
 
-.main-box .z-box h3 { font-size: 20px; margin-top: 0; border-left: 6px solid #ff7700; padding-left: 15px; line-height: 18px; margin-bottom: 20px; }
+.main-box .z-box h3 { font-size: 20px; margin-top: 0; border-left: 6px solid #2b85fb; padding-left: 15px; line-height: 18px; margin-bottom: 20px; }
 .main-box .z-box .mail a { color: #000; text-decoration: underline; }
 .main-box .z-box .lookup a { color: #575757; text-decoration: underline; font-weight: bold; }
 
